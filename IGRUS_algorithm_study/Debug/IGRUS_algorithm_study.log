@@ -1,2 +1,6 @@
 ﻿  baekjoon.cpp
+c:\grass_plant\grass-planting\igrus_algorithm_study\baekjoon.cpp(24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\grass_plant\grass-planting\igrus_algorithm_study\baekjoon.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\grass_plant\grass-planting\igrus_algorithm_study\baekjoon.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\grass_plant\grass-planting\igrus_algorithm_study\baekjoon.cpp(48): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   IGRUS_algorithm_study.vcxproj -> C:\Grass_plant\Grass-Planting\IGRUS_algorithm_study\Debug\IGRUS_algorithm_study.exe
